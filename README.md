@@ -1,5 +1,9 @@
 # VeighNa - By Traders, For Traders, AI-Powered.
 
+mac启动
+cd /Users/shangyong.chen/Github/vnpy
+.venv/bin/python run_macos.py
+
 <p align="center">
   <img src ="https://vnpy.oss-cn-shanghai.aliyuncs.com/veighna-logo.png"/>
 </p>
